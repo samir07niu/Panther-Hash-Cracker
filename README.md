@@ -8,7 +8,7 @@
 ## 🔍 Project Overview
 **Panther Hash Cracker** is a custom-built Python tool designed to perform **Dictionary Attacks** on MD5 hashes. Unlike simple scripts, this tool includes custom error handling, a visual banner, and real-time attack simulation.
 
-This project demonstrates the importance of **Strong Passwords** by showing how easily weak passwords (like `password123`) can be cracked in **0.0 seconds**.
+This project demonstrates the importance of **Strong Passwords** by showing how easily weak passwords (like `bootleg`) can be cracked in **0.01 seconds**.
 
 ---
 
