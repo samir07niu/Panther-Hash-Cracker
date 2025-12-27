@@ -13,7 +13,7 @@ This project demonstrates the importance of **Strong Passwords** by showing how 
 ---
 
 ## 📸 Proof of Concept (POC)
-![Proof of Concept](poc.png)
+![Proof of Concept](pocc.png)
 
 ---
 
